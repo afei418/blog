@@ -1,7 +1,7 @@
 ---
 title: "Solus Py2_3 Miss"
 date: 2020-11-30T18:17:42+08:00
-draft: true
+draft: false
 categories:
 - System
 - Linux
